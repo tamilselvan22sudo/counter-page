@@ -5,6 +5,16 @@
   font-family: Arial, sans-serif;
 }
 
+.ts-logo {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  height: 45px;
+  width: auto;
+  z-index: 1000;
+  cursor: pointer;
+}
+
 body {
   height: 100vh;
   display: flex;
